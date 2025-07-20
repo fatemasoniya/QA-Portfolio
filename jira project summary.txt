@@ -1,0 +1,16 @@
+Project: Bug Reporting using JIRA
+
+ Description:
+This project was done to simulate a real-world bug tracking environment using JIRA Cloud. Bugs were identified from a sample project and documented using industry-standard formats.
+
+ What I Did:
+- Created a new JIRA board (scrum)
+- Reported 10+ bugs with Title, Description, Steps to Reproduce
+- Added Priority, Severity, Labels
+- Attached Screenshots to each ticket
+- Maintained consistent bug reporting format
+
+ Tools Used:
+- JIRA Cloud
+- Manual Testing
+- Excel 

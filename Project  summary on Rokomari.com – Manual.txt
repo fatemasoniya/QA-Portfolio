@@ -1,0 +1,15 @@
+Project Name: Rokomari.com – Manual Testing (UI)
+
+ Description:
+This was a manual testing project on the online book-selling website Rokomari.com. The aim was to test key user flows like search, cart, checkout, and login.
+
+ Test Artifacts:
+- Test_Cases.xlsx: Contains 20+ test cases with expected results, actual results, status, priority.
+- Bug_Report.xlsx: Lists identified bugs with severity, steps to reproduce, expected vs actual behavior.
+
+ Tools Used:
+- Excel
+- Chrome browser
+-Microsoft edge
+
+ Note: This project was done independently for practice purposes, following real-life testing procedures.
